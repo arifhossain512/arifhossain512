@@ -1,11 +1,10 @@
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
 - 🤔 &nbsp; Study and Code All Day Long
 - 🎓 &nbsp; 3rd Year Computer Science  Dropout From South China University OF Technology.
 - 💼 &nbsp; Working as a Full Time Freelancer in Fiver and Upwork.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; As a Polyglot I'am passionate About Learning Multiple Languages All The Time.
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -48,7 +47,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+
 <p align="center">
+  
+![ProfileView](https://komarev.com/ghpvc/?username=arifhossain512&style=for-the-badge&color=brightgreen)
 <a href="https://arifhossain512.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-arifhossain512.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/arifhossain512/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arif%20Hossain-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mdarifhossain512bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdarifhossain512bd@gmail.com-blue?style=flat-square&logo=gmail"></a>
