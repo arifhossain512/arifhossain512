@@ -49,9 +49,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/arifhossain512/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arif-Hossain-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://arifhossain512.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-arifhossain512.github.io/portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/arifhossain512/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Arif%20Hossain-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:mdarifhossain512bd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mdarifhossain512bd@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
