@@ -1,7 +1,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Study and Code All Day Long
-- 🎓 &nbsp; Studying Computer Science and DropOut of South China University OF Technology.
+- 🎓 &nbsp; 3rd Year Computer Science  Dropout From South China University OF Technology.
 - 💼 &nbsp; Working as a Full Time Freelancer in Fiver and Upwork.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; As a Polyglot I'am passionate About Learning Multiple Languages All The Time.
