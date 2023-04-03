@@ -13,6 +13,7 @@
   ![RusT](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust&logoColor=276DC3)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=black)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NEXT.JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js)
@@ -21,6 +22,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
   ![Tailwind](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=Tailwind-css&logoColor=1572B6)
+  ![SOCKET.IO](https://img.shields.io/badge/Socket.io-333333?&style=flat&logo=Socket.io&logoColor=black)
 - 🧑‍ &nbsp;
   ![LeetCode](https://img.shields.io/badge/LeetCode-333333?style=flat&logo=LeetCode&logoColor=#d16c06)
   ![Codeforces](https://img.shields.io/badge/Codeforces-333333?style=flat&logo=Codeforces&logoColor=34559e)
