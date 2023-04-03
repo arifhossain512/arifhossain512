@@ -34,6 +34,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  ![JEST](https://img.shields.io/badge/Jest-333333?style=flat&logo=jest&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/figma-333333?style=flat&logo=figma)
   ![Canva](https://img.shields.io/badge/Canva-333333?style=flat&logo=Canva)
