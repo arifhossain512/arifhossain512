@@ -4,7 +4,7 @@
 - 🎓 &nbsp; 3rd Year Computer Science  Dropout From South China University OF Technology.
 - 💼 &nbsp; Working as a Full Time Freelancer in Fiver and Upwork.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; As a Polyglot I'am passionate About Learning Multiple
+- ✍️ &nbsp; As a Polyglot I'am passionate About Learning Multiple Languages
 
 [![Open Source Helpers](https://www.codetriage.com/npm/npm/badges/users.svg)](https://www.codetriage.com/npm/npm)
 <h3> 🛠 &nbsp;Tech Stack</h3>
