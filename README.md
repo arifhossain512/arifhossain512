@@ -10,9 +10,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![RusT](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust&logoColor=276DC3)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![SHELLSCRIPT](https://img.shields.io/badge/Shell_Script-333333?style=flat&logo=gnu-bash&logoColor=black)
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
