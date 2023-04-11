@@ -43,8 +43,8 @@
 <br/>
 
 <a href="https://github.com/arifhossain512">
-  <img height="180em" src="https://arifhossain512.vercel.app/api?username=arifhossain512&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://arifhossain512.vercel.app/api/top-langs/?username=arifhossain512&theme=buefy&layout=compact" />
+  <img height="180em" src="https://arifhossain512.vercel.app/api?username=arifhossain512&show_icons=true&theme=transparent&bg_color=00000000&count_private=true" />
+  <img height="180em" src="https://arifhossain512.vercel.app/api/top-langs/?username=arifhossain512&theme=transparent&bg_color=00000000&hide_border=true&layout=compact" />
 </a>
 
 <br/>
