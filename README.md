@@ -17,6 +17,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=TypeScript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JEST](https://img.shields.io/badge/Jest-333333?style=flat&logo=jest&logoColor=007ACC)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
@@ -35,7 +36,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![JEST](https://img.shields.io/badge/Jest-333333?style=flat&logo=jest&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=Postman&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/figma-333333?style=flat&logo=figma)
