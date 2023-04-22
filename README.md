@@ -33,6 +33,8 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/docker--333333?style=flat&logo=docker)
+  ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows)
+  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
