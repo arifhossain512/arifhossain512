@@ -21,28 +21,33 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
-  ![Tailwind](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=Tailwind-css&logoColor=1572B6)
+  ![Tailwind](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=Tailwind-css&logoColor=1572B6)
 - 🧰 &nbsp;
    ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express&logoColor=1572B6)
    ![SOCKET.IO](https://img.shields.io/badge/Socket.io-333333?&style=flat&logo=Socket.io&logoColor=black)
    ![JWT](https://img.shields.io/badge/JWT-333333?style=flat&logo=JSON%20web%20tokens&logoColor=1572B6)
    ![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=react%20query&logoColor=1572B6)
    ![Redux](https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=1572B6)
-   ![Styled Components](https://img.shields.io/badge/styled--components-333333?style=flat&logo=styled-components&logoColor=1572B6)
-   ![Webpack](https://img.shields.io/badge/webpack-333333?style=flat&logo=webpack&logoColor=1572B6)
- 
-- 🧑‍ &nbsp;
-  ![LeetCode](https://img.shields.io/badge/LeetCode-333333?style=flat&logo=LeetCode&logoColor=#d16c06)
-  ![Codeforces](https://img.shields.io/badge/Codeforces-333333?style=flat&logo=Codeforces&logoColor=34559e)
+   ![Styled Components](https://img.shields.io/badge/Styled--Components-333333?style=flat&logo=styled-components&logoColor=1572B6)
+   ![Webpack](https://img.shields.io/badge/Webpack-333333?style=flat&logo=webpack&logoColor=1572B6)
 - 🛢 &nbsp;
-  ![Postgres](https://img.shields.io/badge/-postgres-333333?style=flat&logo=postgresql)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ☁️ &nbsp;
+  ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws&logoColor=1572B6)
+  ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
+  ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku&logoColor=1572B6)
+  ![Netlify](https://img.shields.io/badge/Netlify-333333?style=flat&logo=netlify&logoColor=#00C7B7)
+  ![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat&logo=vercel&logoColor=1572B6)
 - 🔥 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/docker--333333?style=flat&logo=docker)
   ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows)
   ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux)
+- 🧑‍ &nbsp;
+  ![LeetCode](https://img.shields.io/badge/LeetCode-333333?style=flat&logo=LeetCode&logoColor=#d16c06)
+  ![Codeforces](https://img.shields.io/badge/Codeforces-333333?style=flat&logo=Codeforces&logoColor=34559e)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
