@@ -25,6 +25,7 @@
   ![SOCKET.IO](https://img.shields.io/badge/Socket.io-333333?&style=flat&logo=Socket.io&logoColor=black)
 - 🧰 &nbsp;
    ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express&logoColor=1572B6)
+   ![JWT](https://img.shields.io/badge/JWT-333333?style=flat&logo=JSON%20web%20tokens)
  
 - 🧑‍ &nbsp;
   ![LeetCode](https://img.shields.io/badge/LeetCode-333333?style=flat&logo=LeetCode&logoColor=#d16c06)
