@@ -22,10 +22,14 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
   ![Tailwind](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=Tailwind-css&logoColor=1572B6)
-  ![SOCKET.IO](https://img.shields.io/badge/Socket.io-333333?&style=flat&logo=Socket.io&logoColor=black)
 - 🧰 &nbsp;
    ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express&logoColor=1572B6)
-   ![JWT](https://img.shields.io/badge/JWT-333333?style=flat&logo=JSON%20web%20tokens)
+   ![SOCKET.IO](https://img.shields.io/badge/Socket.io-333333?&style=flat&logo=Socket.io&logoColor=black)
+   ![JWT](https://img.shields.io/badge/JWT-333333?style=flat&logo=JSON%20web%20tokens&logoColor=1572B6)
+   ![React Query](https://img.shields.io/badge/-React%20Query-333333?style=flat&logo=react%20query&logoColor=1572B6)
+   ![Redux](https://img.shields.io/badge/Redux-333333?style=flat&logo=redux&logoColor=1572B6)
+   ![Styled Components](https://img.shields.io/badge/styled--components-333333?style=flat&logo=styled-components&logoColor=1572B6)
+   ![Webpack](https://img.shields.io/badge/webpack-333333?style=flat&logo=webpack&logoColor=1572B6)
  
 - 🧑‍ &nbsp;
   ![LeetCode](https://img.shields.io/badge/LeetCode-333333?style=flat&logo=LeetCode&logoColor=#d16c06)
