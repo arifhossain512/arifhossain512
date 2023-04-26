@@ -23,13 +23,16 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
   ![Tailwind](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=Tailwind-css&logoColor=1572B6)
   ![SOCKET.IO](https://img.shields.io/badge/Socket.io-333333?&style=flat&logo=Socket.io&logoColor=black)
+- 🧰 &nbsp;
+   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=Express&logoColor=1572B6)
+ 
 - 🧑‍ &nbsp;
   ![LeetCode](https://img.shields.io/badge/LeetCode-333333?style=flat&logo=LeetCode&logoColor=#d16c06)
   ![Codeforces](https://img.shields.io/badge/Codeforces-333333?style=flat&logo=Codeforces&logoColor=34559e)
 - 🛢 &nbsp;
   ![Postgres](https://img.shields.io/badge/-postgres-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
+- 🔥 &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/docker--333333?style=flat&logo=docker)
